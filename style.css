@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: greenyellow;
+}
+#game{
+    background-color: coral;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
